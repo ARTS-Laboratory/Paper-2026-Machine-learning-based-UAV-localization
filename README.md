@@ -1,5 +1,16 @@
 # Paper-2026-Machine-learning-based-UAV-localization
-Artifacts for the 2026 SPIE paper "Machine learning-based UAV localization for under-structure sensor deployment in GPS-denied environments"
+Artifacts for the 2026 SPIE paper "Machine learning-based UAV localization for under-structure sensor deployment in GPS-denied environments"<br>
+
+## Data headers-<br>
+* opt_X - OptiTrack X coordinate
+* opt_Y - OptiTrack y coordinate
+* opt_Z - OptiTrack z coordinate
+* LF_X  - Left camera frame x coordinate
+* LF_Y  - Left camera frame y coordinate
+* RF_Z  - Right camera frame z coordinate
+* RF_Y  - Right camera frame y coordinate
+* F_Y   - combined Y coordinate (from RF_Y and LF_Y)
+
 <p align="center">
 <img src="QR-code.png" alt="Alt text" width="300">
 </p>
