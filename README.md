@@ -1,4 +1,4 @@
-# Paper-2026-Machine-learning-based-UAV-localization
+# Paper 2026 Machine Learning Based UAV Localization
 Artifacts for the 2026 SPIE paper "Machine learning-based UAV localization for under-structure sensor deployment in GPS-denied environments"<br>
 
 ## Data headers-<br>
